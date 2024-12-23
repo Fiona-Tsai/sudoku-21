@@ -1,6 +1,6 @@
 #include <iostream>
 #include <windows.h>
-//8886541111768 
+//8 
 using namespace std;
 
 int board[4][4] = {
